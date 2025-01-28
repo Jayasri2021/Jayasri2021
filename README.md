@@ -72,22 +72,5 @@
 ---
 
 ## 🔥 Dynamic Contributions Heatmap
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasri2021&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark)](https://git.io/streak-stats)  
 
----
-
-## 🎯 Goals for 2025  
-- 🚀 Publish a full-stack open-source project that reaches **500+ stars**.  
-- 📝 Write **5 technical blogs** on modern JavaScript and web development.  
-- 🤝 Contribute to **10 open source projects** this year.  
-
----
-
-## 🎨 Fun Facts  
-- 🌍 I love contributing to **global open-source communities**.  
-- 📚 Passionate about teaching **complex tech in simple words**.
-- 🎮 Gamer at heart with a soft spot for **strategy games**.
-
----
-
-Feel free to explore my repositories and connect with me on GitHub! 🚀
