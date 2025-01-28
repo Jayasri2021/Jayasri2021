@@ -36,22 +36,22 @@
 - **🔍 Notable Contributions**:
   - **[Library X](https://github.com/library-x)**: Optimized performance by 25% by rewriting critical algorithms.
   - **[Tool Y](https://github.com/tool-y)**: Added a dynamic dashboard feature with user-configurable widgets.
-- **🌟 Starred Projects**: See [My Favorites](https://github.com/your-username?tab=stars).
+- **🌟 Starred Projects**: See [My Favorites](https://github.com/jayasri2021?tab=stars).
 
 ---
 
 ## 📊 GitHub Metrics
 
 ### 🚀 Activity & Impact
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=highcontrast&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=highcontrast)  
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=highcontrast&utcOffset=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayasri2021&show_icons=true&theme=highcontrast&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri2021&layout=compact&theme=highcontrast)  
+![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayasri2021&theme=highcontrast&utcOffset=8)
 
 ### 📈 Weekly Development Breakdown
 <!-- WakaTime Badge -->
 <!-- Add your WakaTime API Key -->
 <!-- You can generate it at https://wakatime.com -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&layout=compact&theme=highcontrast)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayasri2021&layout=compact&theme=highcontrast)
 
 ---
 
@@ -72,7 +72,7 @@
 ---
 
 ## 🔥 Dynamic Contributions Heatmap
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasri2021&theme=dark)](https://git.io/streak-stats)  
 
 ---
 
