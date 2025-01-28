@@ -4,7 +4,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/jayasri2021?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/jayasri2021?style=social)
 
----
 <!--
 
 ## 🌟 About Me
@@ -44,6 +43,7 @@
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayasri2021&theme=highcontrast&utcOffset=8)
 ---
 
+<!----
 ## 🛠️ Skills & Tech Stack
 
 ### Programming Languages  
@@ -54,7 +54,7 @@
 
 ### Tools  
 
----
+--->
 
 ## 🔥 Dynamic Contributions Heatmap
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasri2021&theme=dark)](https://git.io/streak-stats)  
