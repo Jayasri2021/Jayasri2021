@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name]! 👨‍💻🚀  
+# Hi there, I'm Jayasri Suresh Vani! 👨‍💻🚀  
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)  
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/your-username?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=jayasri2021&color=brightgreen&style=flat-square)  
+![GitHub Followers](https://img.shields.io/github/followers/jayasri2021?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/jayasri2021?style=social)
 
 ---
 
@@ -11,7 +11,7 @@
 - 🌱 **Learning Focus**: Advanced **JavaScript**, **TypeScript**, **Databases**, and **Open Source Development**.
 - 🤝 **Looking to Collaborate**: On **open source projects** and innovative **tech tools**.
 - 💬 **Ask Me About**: Web development, GitHub workflows, and optimizing algorithms.
-- 📫 **Reach Me At**: [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 **Reach Me At**: [Email](mailto:jayasri030520@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 
