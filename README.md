@@ -1,10 +1,11 @@
+<!--
 # Hi there, I'm Jayasri Suresh Vani! 👨‍💻🚀  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jayasri2021&color=brightgreen&style=flat-square)  
 ![GitHub Followers](https://img.shields.io/github/followers/jayasri2021?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/jayasri2021?style=social)
 
-<!--
+
 
 ## 🌟 About Me
 - 🔭 **Currently Working On**: Building modern web apps and solving data structure challenges.
@@ -32,7 +33,7 @@
 - 🌟 **Tech Stack**: TypeScript, D3.js, and Webpack.
 - 🔗 [Live Demo](https://your-tool-live-demo-link.com)
 
----->
+
 ---
 
 ## 📊 GitHub Metrics
@@ -43,7 +44,7 @@
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayasri2021&theme=highcontrast&utcOffset=8)
 ---
 
-<!----
+
 ## 🛠️ Skills & Tech Stack
 
 ### Programming Languages  
@@ -54,8 +55,9 @@
 
 ### Tools  
 
---->
+
 
 ## 🔥 Dynamic Contributions Heatmap
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasri2021&theme=dark)](https://git.io/streak-stats)  
 
+---->
