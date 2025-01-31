@@ -1,4 +1,3 @@
-<!--
 # Hi there, I'm Jayasri Suresh Vani! 👨‍💻🚀  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jayasri2021&color=brightgreen&style=flat-square)  
@@ -13,8 +12,7 @@
 - 🤝 **Looking to Collaborate**: On **open source projects** and innovative **tech tools**.
 - 💬 **Ask Me About**: Web development, GitHub workflows, and optimizing algorithms.
 - 📫 **Reach Me At**: [Email](mailto:jayasri030520@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)
------>
-<!--
+
 ---
 
 ## 🚀 Featured Projects
@@ -60,4 +58,3 @@
 ## 🔥 Dynamic Contributions Heatmap
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasri2021&theme=dark)](https://git.io/streak-stats)  
 
----->
