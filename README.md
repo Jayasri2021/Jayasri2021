@@ -53,8 +53,3 @@
 
 ### Tools  
 
-
-
-## 🔥 Dynamic Contributions Heatmap
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasri2021&theme=dark)](https://git.io/streak-stats)  
-
