@@ -17,9 +17,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayasri2021&show_icons=true&theme=highcontrast&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasri2021&layout=compact&theme=highcontrast)  
 ![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayasri2021&theme=highcontrast&utcOffset=8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jayasri2021&theme=radical)](https://git.io/streak-stats)
 
-## 🔥 Dynamic Contributions Heatmap
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)](https://git.io/streak-stats)  
 
 ---
 Feel free to explore my repositories and connect with me on GitHub! 🚀
