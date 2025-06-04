@@ -6,7 +6,6 @@
 
 ---
 
-## About Me
 **Reach Me At**: [Email](mailto:jayasri030520@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jayasri-suresh-vani-897879296/)
 
 ---
